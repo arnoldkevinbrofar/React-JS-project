@@ -1,0 +1,18 @@
+Lifecycle :
+
+1. componentDidMount()
+2. render()
+3. componentWillUnmount()
+
+fetch = promised based function,
+
+fetch(url/API)
+.then(response => JSON)
+.then (process the data)
+
+1. Did I set-up my button function properly?
+2. Did I receive the correct Data?
+3. Did I initialize my state?
+4. Did I create a form
+5. Did I make a condition on my form?
+6. Did I modify the state to show the form and show the details I want to edit?
